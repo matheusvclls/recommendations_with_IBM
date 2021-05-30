@@ -26,7 +26,7 @@ Execute all cells of Recommendations_with_IBM.ipynb
 
 ## Project Motivation<a name="motivation"></a>
 
-This a the third project for the Udacity Data Science Nanodegree programm. For this project I am interestested in building a system of recommendation of IBM's articles. I develop all those steps: Exploratory Data Analysis,  Rank Based Recommendations, User-User Based Collaborative Filtering and Matrix Factorization.
+This is the third project for the Udacity Data Science Nanodegree program. For this project I am interestested in building a system of recommendation of IBM's articles. I develop all those steps: Exploratory Data Analysis,  Rank Based Recommendations, User-User Based Collaborative Filtering and Matrix Factorization.
 
 
 ## File Descriptions <a name="files"></a>
