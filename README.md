@@ -37,6 +37,10 @@ This is the third project for the Udacity Data Science Nanodegree program. For t
 ├── <b>data</b> : It contains all ETL Files 
 │ ├── <b>articles_community.csv</b> :  Dimension table of article  
 │ └── <b>user-item-interactions.csv</b> :  Fact table of user item interactions  
+├── <b>top_5.p<b>: pickle file to test top 5 rank based recommendations
+├── <b>top_10.p<b>: pickle file to test top 10 rank based recommendations
+├── <b>top_20.p<b>: pickle file to test top 20 rank based recommendations
+├── <b>user_item_matrix.p<b>: pickle file to load the user_item matrix
 └── <b>requirements.txt</b>
  </code>
 </pre>
